@@ -1,0 +1,2 @@
+# taobao_product_spider
+应用selenium抓取淘宝特点关键词宝贝信息
